@@ -1,8 +1,10 @@
-import { TimelineItem } from "./timeline-item"
+import { TimelineItem } from "../../timeline-item"
 
-export default function Timeline() {
+export default function Timeline_pl() {
   return (
     <>
+      <h2 className="mb-12">Moja historia</h2>
+
       <ol className="list-none p-0">
         <TimelineItem
           title="Nauka HTMLa i PHP"
@@ -10,8 +12,8 @@ export default function Timeline() {
           content={
             <>
               <p>
-                Regularnie czytając magazyn CD-Action natrafiłem w nim na
-                rubrykę wprowadzającą do języków HTML i PHP.
+                Regularnie czytając magazyn komputerowy CD-Action natrafiłem w
+                nim na rubrykę wprowadzającą do języków HTML i PHP.
               </p>
               <p>
                 W domu nie miałem internetu, więc pierwsze strony internetowe
@@ -21,7 +23,7 @@ export default function Timeline() {
               <p>
                 Edytorem kodu był zwykły notatnik, który nie ułatwiał nauki,
                 podobnie jak najpopularniejsza wtedy przeglądarka - Internet
-                Explorer 5.
+                Explorer (w wersji 5).
               </p>
             </>
           }
@@ -64,7 +66,7 @@ export default function Timeline() {
               </p>
               <p>
                 Rozpoczęła się wtedy też moja przygoda z bezpieczeństwem i
-                &quot;hakowaniem&quot;.
+                "hakowaniem".
               </p>
               <p>
                 Pod przykrywką problemów z działaniem sieci u jednego z kolegów
@@ -77,9 +79,9 @@ export default function Timeline() {
                 często były to trojany.
               </p>
               <p>
-                Korzystnie z komunikatora LANChat nauczyło mnie też, że prywatne
-                rozmowy nie są tak naprawdę prywatne, gdy komunikator wysyła
-                wiadomości po sieci w formie nieszyfrowanej.
+                Using LANChat also taught me that private chats are not really
+                private when the messenger sends messages over the network in
+                unencrypted form.
               </p>
             </>
           }
@@ -109,8 +111,7 @@ export default function Timeline() {
                 hostingu oferowanego przez Wirtualną Polskę - Webparku.
               </p>
               <p>
-                Przestrzeń dyskowa była &quot;zawrotna&quot; i wynosiła
-                kilkanaście MB.
+                Przestrzeń dyskowa była "zawrotna" i wynosiła kilkanaście MB.
               </p>
               <p>
                 Od strony technicznej był to klasyk czyli HTML/CSS, JavaScript
@@ -119,17 +120,17 @@ export default function Timeline() {
               <p>
                 Strona zawierała dynamiczne elementy jak zegar wskazujący
                 aktualną godzinę, czy możliwość wpisywania się do księgi gości.
-                Istniała również możliwość wypełnienia ankiety, którą zbierałem
-                &quot;feedback&quot; od użytkowników.
+                Istniała również możliwość wypełnienia ankiety, przez którą
+                zbierałem informacje zwrotne od użytkowników.
               </p>
               <p>
-                Graficzny styl projekt nazwałbym teraz &quot;dark mode&quot;.
-                Było to jednak na długo przed tym zanim termin ten stał się
-                modny.
+                Graficzny styl projekt nazwałbym teraz "dark mode". Było to
+                jednak na długo przed tym, zanim termin ten stał się modny.
               </p>
               <p>
                 Z perspektywy czasu widzę, że od zawsze siedziała we mnie chęć
-                dzielenia się wiedzą, a internet okazał się być idealnym medium.
+                dzielenia się wiedzom, a internet okazał się być idealnym
+                medium.
               </p>
             </>
           }
@@ -181,7 +182,7 @@ export default function Timeline() {
                 następnie docinałem.
               </p>
               <p>
-                Nauczyłem się też korzystać z nail gun&apos;a czyli pistoletu do
+                Nauczyłem się też korzystać z nail gun'a czyli pistoletu do
                 wbijania gwoździ.
               </p>
             </>
@@ -199,9 +200,9 @@ export default function Timeline() {
                 moja kolejna praca.
               </p>
               <p>
-                Pewnego dnia jeden z współpracowników nie wyłączył krajalnicy po
-                zakończeniu krojenia. Gdy chciałem jej użyć odkroiła mi kawałek
-                palca.
+                Pewnego dnia jeden ze współpracowników nie wyłączył krajalnicy
+                po zakończeniu krojenia. Gdy chciałem jej użyć, odkroiła mi
+                kawałek palca.
               </p>
               <p>Zrezygnowałem wtedy z dalszej pracy w tamtym miejscu.</p>
             </>
@@ -215,7 +216,7 @@ export default function Timeline() {
             <>
               <p>
                 Po powrocie do Polski rozpocząłem naukę w technikum hotelarskim.
-                Był to błąd. Z pewnością lepiej wykorzystałbym ten czas
+                Był to błąd. Z pewnością lepiej wykorzystałbym ten czas,
                 uczęszczając do technikum informatycznego.
               </p>
               <p>
@@ -241,7 +242,7 @@ export default function Timeline() {
             <>
               <p>
                 Ucząc się w technikum, dodatkowo dorabiałem w charakterze
-                ochrony na imprezach masowych, głównie meczy piłkarskich.
+                ochrony na imprezach masowych, głównie meczów piłkarskich.
               </p>
               <p>
                 Nie było to zbyt rozwojowe zajęcie, ale w jakiś sposób wiązało
@@ -295,7 +296,7 @@ export default function Timeline() {
         />
 
         <TimelineItem
-          title="Uzyskanie prawa jazdy kat. B"
+          title="Zdobycie prawa jazdy kat. B"
           date="2008"
           content={
             <>
@@ -326,9 +327,7 @@ export default function Timeline() {
                 Po ukończeniu szkoły średniej i zdaniu matury wyjechałem do
                 Wrocławia.
               </p>
-              <p>
-                Rozpocząłem studia na kierunku &quot;Grafika komputerowa&quot;.
-              </p>
+              <p>Rozpocząłem studia na kierunku "Grafika komputerowa".</p>
               <p>
                 Jednak dość szybko, bo po 1 semestrze, zrezygnowałem z dalszego
                 studiowania. Nie widziałem wartości w zdobywaniu wiedzy tą
@@ -383,8 +382,7 @@ export default function Timeline() {
               <p>Zaprojektowałem i zrealizowałem cały biznes od A do Z.</p>
               <p>
                 Osobiste przeprowadzanie rozmów rekrutacyjnych były jednymi z
-                trudniejszych wyzwań pod kątem &quot;wyjścia ze strefy
-                komfortu&quot;.
+                trudniejszych wyzwań pod kątem "wyjścia ze strefy komfortu".
               </p>
               <p>
                 Stworzyłem informacyjną stronę internetową, zaprojektowałem
@@ -488,7 +486,7 @@ export default function Timeline() {
               </p>
               <p>
                 Odpowiadałem finansowo za przyjęty towar, więc zdecydowałem się
-                zatrudnić kogoś do pilnowania placu w nocy korzystając z
+                zatrudnić kogoś do pilnowania placu w nocy, korzystając z
                 przyczepy campingowej.
               </p>
             </>
@@ -501,8 +499,8 @@ export default function Timeline() {
           content={
             <>
               <p>
-                Bank, w którym miałem konto (Dominet) został przejęty przez inny
-                (Fortis/BNP Paribas).
+                Bank (Dominet), w którym miałem konto, został przejęty przez
+                inny (Fortis/BNP Paribas).
               </p>
               <p>
                 Z tej okazji ogłoszony został konkurs, w którym należało w
@@ -510,7 +508,7 @@ export default function Timeline() {
               </p>
               <p>
                 Zdecydowałem się napisać wiersz... który na tyle spodobał się
-                jury, że zostałem laureatem konkursu wygrywając wycieczkę do
+                jury, że zostałem laureatem konkursu, wygrywając wycieczkę do
                 Paryża.
               </p>
             </>
@@ -538,7 +536,7 @@ export default function Timeline() {
               </p>
               <p>
                 Osobiste rozniesienie CV z adresem strony internetowej, na
-                której zamieściłem portfolio moich trójwymiarowych wizualizacji
+                której zamieściłem portfolio moich trójwymiarowych wizualizacji,
                 przyniosło rezultat i zostałem zatrudniony w jednej z Kieleckich
                 firm.
               </p>
@@ -563,7 +561,7 @@ export default function Timeline() {
                   rel="noopener"
                 >
                   Jung
-                </a>{" "}
+                </a>
                 , przybliżające zastosowania oraz proces produkcji produktów
                 związanych z elektryką.
               </p>
@@ -572,7 +570,7 @@ export default function Timeline() {
         />
 
         <TimelineItem
-          title="Uzyskanie prawa jazdy kat. A"
+          title="Zdobycie prawa jazdy kat. A"
           date="2010"
           content={
             <>
@@ -581,7 +579,7 @@ export default function Timeline() {
                 A.
               </p>
               <p>
-                Kupując motocykl spełniłem jedno ze swoich dziecięcych marzeń.
+                Kupując, motocykl spełniłem jedno ze swoich dziecięcych marzeń.
               </p>
               {/* <p>https://www.youtube.com/watch?v=VIpVnYNpINI</p> */}
             </>
@@ -594,8 +592,8 @@ export default function Timeline() {
           content={
             <>
               <p>
-                Aktywnie trenując i szukając możliwości rozwoju wziąłem udział w
-                praktycznym seminarium prowadzonym przez znanego polskiego
+                Aktywnie trenując i szukając możliwości rozwoju, wziąłem udział
+                w praktycznym seminarium prowadzonym przez znanego polskiego
                 zawodnika MMA, startującego w UFC i KSW,{" "}
                 <a
                   href="https://pl.wikipedia.org/wiki/Tomasz_Drwal"
@@ -664,12 +662,12 @@ export default function Timeline() {
           content={
             <>
               <p>
-                Realizując strony www postanowiłem zacząć uczyć innych tego
+                Realizując strony www, postanowiłem zacząć uczyć innych tego
                 fachu.
               </p>
               <p>
                 Początkowo dostęp do kursów wideo udzielałem w lekko
-                zmodyfikowanej wersji CMS&apos;u Joomla.
+                zmodyfikowanej wersji CMS'u Joomla.
               </p>
               <p>
                 Z czasem zdecydowałem się na stworzenie własnego rozwiązania,
@@ -807,7 +805,7 @@ export default function Timeline() {
                 sobie w nim biuro do pracy.
               </p>
               <p>
-                Wiza turystyczna umożliwiała 3 miesięczny pobyt od wlotu do
+                Wiza turystyczna umożliwiała 3-miesięczny pobyt od wlotu do
                 Malezji, więc chcąc nie chcąc odwiedzałem okoliczne kraje -
                 Tajlandię i Singapur, aby przedłużać wizę na kolejne kwartały.
               </p>
@@ -821,7 +819,7 @@ export default function Timeline() {
         />
 
         <TimelineItem
-          title="Udział w Startup Weekend Kielce #2"
+          title="Udział w Startup Weekend Kielce #2 (powered by Google)"
           date="2016"
           content={
             <>
@@ -840,7 +838,7 @@ export default function Timeline() {
           content={
             <>
               <p>
-                Wystąpiłem jako prelegent dzieląc się swoim doświadczeniem z
+                Wystąpiłem jako prelegent, dzieląc się swoim doświadczeniem z
                 prowadzenia biznesu opartego o tworzenie kursów wideo.
               </p>
               {/* <p>https://www.youtube.com/watch?v=qTTD1OkGRIA</p> */}
@@ -856,7 +854,7 @@ export default function Timeline() {
               <p>
                 Chcąc rozwijać swoje biznesowe umiejętności wziąłem udział w
                 kongresie jednego ze świetnych amerykańskich trenerów sprzedaży
-                - Brian&apos;a Tracy.
+                - Brian'a Tracy.
               </p>
             </>
           }
@@ -869,8 +867,8 @@ export default function Timeline() {
             <>
               <p>
                 Wystąpiłem na spotkaniu społeczności zrzeszonej wokół
-                JavaScript&apos;u, zestawiając dwa narzędzia do wykonywania
-                zapytań HTTP - Fetch i Axios.
+                JavaScript'u, zestawiając dwa narzędzia do wykonywania zapytań
+                HTTP - Fetch i Axios.
               </p>
             </>
           }
@@ -961,7 +959,7 @@ export default function Timeline() {
           content={
             <>
               <p>
-                Po kilku latach mniej lub bardziej regularnych donacji krwi,
+                Po kilku latach mniej lub bardziej regularnych donacji krwi
                 otrzymałem odznakę zasłużonego honorowego dawcy krwi III stopnia
                 (oddałem ponad 6 litrów krwi).
               </p>
@@ -986,14 +984,14 @@ export default function Timeline() {
                 Zaobserwowałem jednak problem, który nie dotykał mnie wcześniej.
               </p>
               <p>
-                Ilość wiedzy i doświadczenia w dziedzinie web developmentu jaką
+                Ilość wiedzy i doświadczenia w dziedzinie web developmentu, jaką
                 zgromadziłem, była znacznie większa niż kiedyś, gdy pierwotnie
                 zaczynałem przygodę z kursami tworzenia stron.
               </p>
               <p>
                 Tym samym interesujące mnie tematy, w których chciałem się
                 rozwijać, stawały się coraz bardziej specjalistyczne i mniej
-                interesujące dla docelowej grupy odbiorców.
+                interesujące dla szerszej grupy odbiorców.
               </p>
               <p>
                 Zacząłem więc myślec o powrocie do etatowej pracy, która
@@ -1019,7 +1017,7 @@ export default function Timeline() {
                 udział.
               </p>
               <p>
-                Mój najlepszy czas okrążenia jaki wykonałem na torze Silesia
+                Mój najlepszy czas okrążenia, jaki wykonałem na torze Silesia
                 Ring w Poznaniu to 1.57.930 w samochodzie Hyundaiu i30 N.
               </p>
               <p>

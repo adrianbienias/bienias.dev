@@ -1,0 +1,19 @@
+#!/bin/zsh
+
+# Build the localized version
+npm run build:pl &&
+
+# Delete all files inside nested repo folder, except its `.git` history
+find ../adrianbienias.pl/ -mindepth 1 -not -path '../adrianbienias.pl/.git*' -not -name 'CNAME' -delete
+
+# Copy all files to the nested repo folder
+mv adrianbienias.pl-pre/*(D) ../adrianbienias.pl/ &&
+
+# Delete empty folder
+rm -r adrianbienias.pl-pre &&
+
+# Commit changes inside `gh-pages` folder/branch and push them to GitHub
+cd ../adrianbienias.pl &&
+git add . &&
+git commit -m 'Automatic deploy' &&
+git push

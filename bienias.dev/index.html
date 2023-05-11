@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>bienias.dev</title>
+  </head>
+  <body>
+    <noscript>You need to enable JavaScript</noscript>
+
+    <script>
+      function getBrowserLocale() {
+        if (typeof window === "undefined") {
+          return null
+        }
+
+        return window.navigator.language
+      }
+
+      function pickDefaultLang() {
+        const browserLocale = getBrowserLocale()
+        if (!browserLocale) {
+          return null
+        }
+
+        const polishLangRegex = /^pl\b/
+        const englishLangRegex = /^en\b/
+
+        if (browserLocale.match(polishLangRegex)) {
+          return "pl"
+        }
+        if (browserLocale.match(englishLangRegex)) {
+          return "en"
+        }
+
+        return "en"
+      }
+
+      function performLocaleRedirect() {
+        const defaultLang = pickDefaultLang()
+        switch (defaultLang) {
+          case "pl": {
+            window.document.body.insertAdjacentHTML(
+              "afterbegin",
+              `Przekierowuję do <a href="https://adrianbienias.pl">adrianbienias.pl &raquo;</a>`
+            )
+            window.location.assign("https://adrianbienias.pl")
+            break
+          }
+          case "en": {
+            window.document.body.insertAdjacentHTML(
+              "afterbegin",
+              `Redirecting to <a href="https://adrianbienias.com">adrianbienias.com &raquo;</a>`
+            )
+            window.location.assign("https://adrianbienias.com")
+            break
+          }
+          default: {
+            window.document.body.insertAdjacentHTML(
+              "afterbegin",
+              `Redirecting to <a href="https://adrianbienias.com">adrianbienias.com &raquo;</a>`
+            )
+            window.location.assign("https://adrianbienias.com")
+            break
+          }
+        }
+      }
+
+      performLocaleRedirect()
+    </script>
+  </body>
+</html>
