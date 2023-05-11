@@ -1,3 +1,3 @@
-# bienias.dev
+# Multi-language static personal website
 
-[See my CV](https://bienias.dev/cv-adrian-bienias.pdf)
+When visiting [bienias.dev](https://bienias.dev), it automatically detects browser language and redirects accordingly to Polish ([adrianbienias.pl](https://adrianbienias.pl)) or English ([adrianbienias.com](https://adrianbienias.com)) version.

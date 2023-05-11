@@ -1,0 +1,19 @@
+#!/bin/zsh
+
+# Build the localized version
+npm run build:pl &&
+
+# Delete all files inside another repo folder, except its `.git` history and CNAME file
+find ../adrianbienias.pl/ -mindepth 1 -not -path '../adrianbienias.pl/.git*' -not -name 'CNAME' -delete
+
+# Copy all files to another repo folder
+mv adrianbienias.pl-pre/*(D) ../adrianbienias.pl/ &&
+
+# Delete empty folder
+rm -r adrianbienias.pl-pre &&
+
+# Commit changes inside and push them to GitHub
+cd ../adrianbienias.pl &&
+git add . &&
+git commit -m 'Automatic deploy' &&
+git push

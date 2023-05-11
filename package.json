@@ -3,8 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
+    "dev:pl": "NEXT_PUBLIC_LOCALE=pl next dev",
+    "dev:en": "NEXT_PUBLIC_LOCALE=en next dev",
+    "build:pl": "NEXT_PUBLIC_LOCALE=pl next build",
+    "build:en": "NEXT_PUBLIC_LOCALE=en next build",
     "start": "next start",
     "lint": "next lint"
   },

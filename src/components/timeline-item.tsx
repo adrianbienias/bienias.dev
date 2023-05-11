@@ -46,7 +46,7 @@ export function TimelineItem({ title, date, content, media }: Props) {
   )
 }
 
-// Two columns layout
+// Alternative two columns layout
 //
 // <div className="grid grid-cols-[60px_1fr] lg:grid-cols-[1fr_60px_1fr]">
 //   <div className="order-first lg:order-none row-span-2 lg:row-auto relative flex flex-col items-center">
