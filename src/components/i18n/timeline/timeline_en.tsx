@@ -28,8 +28,9 @@ export default function Timeline_en() {
           }
           medias={[
             {
-              url: "/images/kurs-html-w-cd-action.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/kurs-html-w-cd-action.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/kurs-html-w-cd-action.webp",
                 alt: "HTML course in CD-Action magazine",
               },
             },
@@ -141,8 +142,9 @@ export default function Timeline_en() {
           }
           medias={[
             {
-              url: "/images/strona-o-fingerboardzie.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/strona-o-fingerboardzie.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/strona-o-fingerboardzie.webp",
                 alt: "Screenshot from a website dedicated to fingerboards",
               },
             },
@@ -242,26 +244,30 @@ export default function Timeline_en() {
           }
           medias={[
             {
-              url: "/images/dyplom-lowimy-talenty-1.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/dyplom-lowimy-talenty-1.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/dyplom-lowimy-talenty-1.webp",
                 alt: "Diploma for Adrian Bienias for taking 1st place in the 3rd school competition of fast and correct typing on the keyboard",
               },
             },
             {
-              url: "/images/dyplom-lowimy-talenty-2.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/dyplom-lowimy-talenty-2.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/dyplom-lowimy-talenty-2.webp",
                 alt: "Diploma for Adrian Bienias for taking 1st place in the 4rd school competition of fast and correct typing on the keyboard",
               },
             },
             {
-              url: "/images/dyplom-lowimy-talenty-3.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/dyplom-lowimy-talenty-3.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/dyplom-lowimy-talenty-3.webp",
                 alt: "Diploma for Adrian Bienias for taking 1st place in the 5th school competition of fast and correct typing on the keyboard",
               },
             },
             {
-              url: "/images/dyplom-lowimy-talenty-4.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/dyplom-lowimy-talenty-4.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/dyplom-lowimy-talenty-4.webp",
                 alt: "Diploma for Adrian Bienias for taking 1st place in the 6th school competition of fast and correct typing on the keyboard",
               },
             },
@@ -286,8 +292,9 @@ export default function Timeline_en() {
           }
           medias={[
             {
-              url: "/images/zaswiadczenie-szkolenia-euro-partner-security.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/zaswiadczenie-szkolenia-euro-partner-security.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/zaswiadczenie-szkolenia-euro-partner-security.webp",
                 alt: "Adrian Bienias's certificate of training for members of security services",
               },
             },
@@ -318,8 +325,9 @@ export default function Timeline_en() {
           }
           medias={[
             {
-              url: "/images/strona-shidokan-karate-kielce.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/strona-shidokan-karate-kielce.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/strona-shidokan-karate-kielce.webp",
                 alt: "Screenshot of the website of the Kielce Shidokan karate club",
               },
             },
@@ -344,14 +352,16 @@ export default function Timeline_en() {
           }
           medias={[
             {
-              url: "/images/zawody-shidokan-1.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/zawody-shidokan-1.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/zawody-shidokan-1.webp",
                 alt: "Fighters of a combat sports tournament sitting in a row on a mat",
               },
             },
             {
-              url: "/images/zawody-shidokan-2.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/zawody-shidokan-2.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/zawody-shidokan-2.webp",
                 alt: "Commemorative photo of players with medals",
               },
             },
@@ -451,8 +461,9 @@ export default function Timeline_en() {
           }
           medias={[
             {
-              url: "/images/certyfikat-sfbcc-kielce.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/certyfikat-sfbcc-kielce.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/certyfikat-sfbcc-kielce.webp",
                 alt: "Certificate confirming Adrian Bienias' participation in workshops on running your own business",
               },
             },
@@ -495,8 +506,9 @@ export default function Timeline_en() {
           }
           medias={[
             {
-              url: "/images/strona-serwisu-sprzatajacego.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/strona-serwisu-sprzatajacego.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/strona-serwisu-sprzatajacego.webp",
                 alt: 'Screenshot of the "Chicago" cleaning service website',
               },
             },
@@ -543,20 +555,23 @@ export default function Timeline_en() {
           }
           medias={[
             {
-              url: "/images/strona-easyallegro.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/strona-easyallegro.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/strona-easyallegro.webp",
                 alt: 'Screenshot of the "easyallegro" website',
               },
             },
             {
-              url: "/images/szablon-allegro.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/szablon-allegro.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/szablon-allegro.webp",
                 alt: "Allegro template for sale of bathroom fittings",
               },
             },
             {
-              url: "/images/kreator-szablonow-allegro.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/kreator-szablonow-allegro.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/kreator-szablonow-allegro.webp",
                 alt: "Screenshot of the allegro template generation tool",
               },
             },
@@ -607,8 +622,9 @@ export default function Timeline_en() {
           }
           medias={[
             {
-              url: "/images/choinkowy-biznes.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/choinkowy-biznes.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/choinkowy-biznes.webp",
                 alt: "Adrian Bienias in working clothes and a Santa hat with a pruning shears against the background of Christmas trees",
               },
             },
@@ -636,14 +652,16 @@ export default function Timeline_en() {
           }
           medias={[
             {
-              url: "/images/wiersz-o-banku.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/wiersz-o-banku.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/wiersz-o-banku.webp",
                 alt: 'Poem "About the Bank"',
               },
             },
             {
-              url: "/images/pod-wieza-eiffla.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/pod-wieza-eiffla.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/pod-wieza-eiffla.webp",
                 alt: "Adrian Bienias in Paris in front of the Eiffel Tower",
               },
             },
@@ -679,26 +697,30 @@ export default function Timeline_en() {
           }
           medias={[
             {
-              url: "/images/wizualizacja-lazienki-1.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/wizualizacja-lazienki-1.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/wizualizacja-lazienki-1.webp",
                 alt: "3D visualization of the bathroom",
               },
             },
             {
-              url: "/images/wizualizacja-salonu-1.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/wizualizacja-salonu-1.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/wizualizacja-salonu-1.webp",
                 alt: "3D visualization of the living room",
               },
             },
             {
-              url: "/images/wizualizacja-domu.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/wizualizacja-domu.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/wizualizacja-domu.webp",
                 alt: "3D visualization of the house",
               },
             },
             {
-              url: "/images/wizualizacja-salonu-2.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/wizualizacja-salonu-2.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/wizualizacja-salonu-2.webp",
                 alt: "3D visualization of the living room",
               },
             },
@@ -731,14 +753,16 @@ export default function Timeline_en() {
           }
           medias={[
             {
-              url: "/images/fabryka-jung-2.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/fabryka-jung-2.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/fabryka-jung-2.webp",
                 alt: "Adrian Bienias in front of the Jung factory in Dortmund",
               },
             },
             {
-              url: "/images/fabryka-jung-1.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/fabryka-jung-1.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/fabryka-jung-1.webp",
                 alt: "Adrian Bienias in front of the welcome screen at the Jung factory",
               },
             },
@@ -761,14 +785,16 @@ export default function Timeline_en() {
           }
           medias={[
             {
-              url: "/images/na-motorze-yamaha-r6.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/na-motorze-yamaha-r6.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/na-motorze-yamaha-r6.webp",
                 alt: "Adrian Bienias on a Yamaha R6 motorcycle",
               },
             },
             {
-              url: "/images/na-motorze-yamaha-fz6.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/na-motorze-yamaha-fz6.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/na-motorze-yamaha-fz6.webp",
                 alt: "Adrian Bienias on a Yamaha FZ6 motorcycle",
               },
             },
@@ -803,8 +829,9 @@ export default function Timeline_en() {
           }
           medias={[
             {
-              url: "/images/z-tomaszem-drwalem.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/z-tomaszem-drwalem.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/z-tomaszem-drwalem.webp",
                 alt: "A commemorative photo of Adrian Bienias with Tomasz Drwal",
               },
             },
@@ -839,8 +866,6 @@ export default function Timeline_en() {
                 </a>
                 .
               </p>
-              {/* AutoCad files' preview: https://viewer.autodesk.com/designviews */}
-
               <p>I worked with an advertising agency, creating websites.</p>
               <p>
                 I created WordPress templates, e.g. for{" "}
@@ -857,26 +882,30 @@ export default function Timeline_en() {
           }
           medias={[
             {
-              url: "/images/wizualizacja-maxipizza.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/wizualizacja-maxipizza.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/wizualizacja-maxipizza.webp",
                 alt: "Visualization of the MaxiPizza restaurant in Warsaw",
               },
             },
             {
-              url: "/images/pkp-prowadnice-drazka-napedowego-odlacznika.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/pkp-prowadnice-drazka-napedowego-odlacznika.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/pkp-prowadnice-drazka-napedowego-odlacznika.webp",
                 alt: "3D CAD drawing of the drive rod guide of the PKP traction disconnector",
               },
             },
             {
-              url: "/images/bluesuit.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/bluesuit.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/bluesuit.webp",
                 alt: "Screenshot from the bluesuit website",
               },
             },
             {
-              url: "/images/sklep-stomadent.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/sklep-stomadent.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/sklep-stomadent.webp",
                 alt: "Screenshot of an online store with dental products",
               },
             },
@@ -909,14 +938,16 @@ export default function Timeline_en() {
           }
           medias={[
             {
-              url: "/images/biuro-kuvi-pl.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/biuro-kuvi-pl.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/biuro-kuvi-pl.webp",
                 alt: "Office kuvi.pl",
               },
             },
             {
-              url: "/images/kuvi-pl.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/kuvi-pl.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/kuvi-pl.webp",
                 alt: "Screenshot from the kuvi.pl website",
               },
             },
@@ -1035,7 +1066,6 @@ export default function Timeline_en() {
             {
               url: "https://www.youtube.com/watch?v=zCbevj2w_hE",
               thumbnail: {
-                url: "/images/prelekcja-techklub.webp",
                 alt: "YouTube video thumbnail",
               },
             },
@@ -1085,26 +1115,30 @@ export default function Timeline_en() {
           }
           medias={[
             {
-              url: "/images/krabi-tajlandia.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/krabi-tajlandia.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/krabi-tajlandia.webp",
                 alt: "Adrian Bienias on the beach in front of the boats in Thailand",
               },
             },
             {
-              url: "/images/basen-kuala-lumpur.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/basen-kuala-lumpur.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/basen-kuala-lumpur.webp",
                 alt: "Adrian Bienias diving in a swimming pool in Kuala Lumpur, Malaysia",
               },
             },
             {
-              url: "/images/singapur.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/singapur.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/singapur.webp",
                 alt: "Adrian Bienias outside the Marina Bay Sands building in Singapore",
               },
             },
             {
-              url: "/images/petronas-towers-kuala-lumpur.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/petronas-towers-kuala-lumpur.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/petronas-towers-kuala-lumpur.webp",
                 alt: "Adrian Bienias standing at the Petronas Towers in Kuala Lumpur, Malaysia",
               },
             },
@@ -1124,8 +1158,9 @@ export default function Timeline_en() {
           }
           medias={[
             {
-              url: "/images/gadzety-startup-weekend-kielce.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/gadzety-startup-weekend-kielce.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/gadzety-startup-weekend-kielce.webp",
                 alt: "Gadgets from participation in the Startup Weekend Kielce #2 event",
               },
             },
@@ -1151,8 +1186,9 @@ export default function Timeline_en() {
           }
           medias={[
             {
-              url: "/images/sfbcc-poznan.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/sfbcc-poznan.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/sfbcc-poznan.webp",
                 alt: "Adrian Bienias during a presentation in the hall",
               },
             },
@@ -1179,14 +1215,16 @@ export default function Timeline_en() {
           }
           medias={[
             {
-              url: "/images/certyfikat-z-kongresu-brian-tracy.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/certyfikat-z-kongresu-brian-tracy.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/certyfikat-z-kongresu-brian-tracy.webp",
                 alt: "Certificate for Adrian Bienias confirming participation in the congress with Brian Tracy",
               },
             },
             {
-              url: "/images/plakietka-z-kongresu-brian-tracy.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/plakietka-z-kongresu-brian-tracy.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/plakietka-z-kongresu-brian-tracy.webp",
                 alt: 'Pin from the "Maximum Achievement" convention with Brian Tracy',
               },
             },
@@ -1207,8 +1245,9 @@ export default function Timeline_en() {
           }
           medias={[
             {
-              url: "/images/meet-js-kielce.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/meet-js-kielce.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/meet-js-kielce.webp",
                 alt: "Graphic of Adrian Bienias as a speaker of the Meet.js event",
               },
             },
@@ -1241,14 +1280,16 @@ export default function Timeline_en() {
           }
           medias={[
             {
-              url: "/images/praca-w-biurze-atlassian.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/praca-w-biurze-atlassian.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/praca-w-biurze-atlassian.webp",
                 alt: "Adrian Bienias sitting in front of a computer in Atlassian's Gdańsk office",
               },
             },
             {
-              url: "/images/jira-credits.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/jira-credits.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/jira-credits.webp",
                 alt: "List of people involved in the development of Jira software with Adrian Bienias underlined",
               },
             },
@@ -1297,8 +1338,9 @@ export default function Timeline_en() {
           }
           medias={[
             {
-              url: "/images/certyfikat-niebezpiecznik.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/certyfikat-niebezpiecznik.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/certyfikat-niebezpiecznik.webp",
                 alt: 'Certificate for Adrian Bienias confirming the training "Attacking and Protecting Web Applications" conducted by Niebezpiecznik.pl',
               },
             },
@@ -1318,8 +1360,9 @@ export default function Timeline_en() {
           }
           medias={[
             {
-              url: "/images/windsurfing.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/windsurfing.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/windsurfing.webp",
                 alt: "Adrian Bienias on a windsurfing board",
               },
             },
@@ -1340,8 +1383,9 @@ export default function Timeline_en() {
           }
           medias={[
             {
-              url: "/images/legitymacja-krwiodawcy.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/legitymacja-krwiodawcy.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/legitymacja-krwiodawcy.webp",
                 alt: "ID card of Adrian Bienias, a distinguished honorary blood donor",
               },
             },
@@ -1409,14 +1453,16 @@ export default function Timeline_en() {
           }
           medias={[
             {
-              url: "/images/silesia-ring-hot-hatch-cup.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/silesia-ring-hot-hatch-cup.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/silesia-ring-hot-hatch-cup.webp",
                 alt: "Adrian Bienias in the Hyundai i30n car on the Silesia Ring track",
               },
             },
             {
-              url: "/images/silesia-ring-czasy.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/silesia-ring-czasy.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/silesia-ring-czasy.webp",
                 alt: "List of lap times of Adrian Bienias on the Silesia Ring track",
               },
             },
@@ -1449,8 +1495,9 @@ export default function Timeline_en() {
           }
           medias={[
             {
-              url: "/images/100-bugow-js.webp",
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/100-bugow-js.webp",
               thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/100-bugow-js.webp",
                 alt: "JavaScript logo with worms around",
               },
             },
