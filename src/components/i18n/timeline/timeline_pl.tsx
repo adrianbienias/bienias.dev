@@ -27,6 +27,14 @@ export default function Timeline_pl() {
               </p>
             </>
           }
+          medias={[
+            {
+              url: "/images/kurs-html-w-cd-action.webp",
+              thumbnail: {
+                alt: "Kurs HTML na łamach magazynu CD-Action",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -134,6 +142,14 @@ export default function Timeline_pl() {
               </p>
             </>
           }
+          medias={[
+            {
+              url: "/images/strona-o-fingerboardzie.webp",
+              thumbnail: {
+                alt: "Zrzut ekranu ze strony internetowej poświęconej fingerboardom",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -233,6 +249,32 @@ export default function Timeline_pl() {
               </p>
             </>
           }
+          medias={[
+            {
+              url: "/images/dyplom-lowimy-talenty-1.webp",
+              thumbnail: {
+                alt: "Dyplom dla Adriana Bieniasa za zajęcie 1 miejsca w III szkolnym konkursie szybkiego i poprawnego pisania na klawiaturze",
+              },
+            },
+            {
+              url: "/images/dyplom-lowimy-talenty-2.webp",
+              thumbnail: {
+                alt: "Dyplom dla Adriana Bieniasa za zajęcie 1 miejsca w IV szkolnym konkursie szybkiego i poprawnego pisania na klawiaturze",
+              },
+            },
+            {
+              url: "/images/dyplom-lowimy-talenty-3.webp",
+              thumbnail: {
+                alt: "Dyplom dla Adriana Bieniasa za zajęcie 1 miejsca w V szkolnym konkursie szybkiego i poprawnego pisania na klawiaturze",
+              },
+            },
+            {
+              url: "/images/dyplom-lowimy-talenty-4.webp",
+              thumbnail: {
+                alt: "Dyplom dla Adriana Bieniasa za zajęcie 1 miejsca w VI szkolnym konkursie szybkiego i poprawnego pisania na klawiaturze",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -251,6 +293,14 @@ export default function Timeline_pl() {
               </p>
             </>
           }
+          medias={[
+            {
+              url: "/images/zaswiadczenie-szkolenia-euro-partner-security.webp",
+              thumbnail: {
+                alt: "Zaświadczenie Adriana Bieniasa o odbyciu szkolenia dla członków służb porządkowych",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -275,6 +325,14 @@ export default function Timeline_pl() {
               </p>
             </>
           }
+          medias={[
+            {
+              url: "/images/strona-shidokan-karate-kielce.webp",
+              thumbnail: {
+                alt: "Zrzut ekranu strony kieleckiego klubu Shidokan karate",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -293,6 +351,20 @@ export default function Timeline_pl() {
               </p>
             </>
           }
+          medias={[
+            {
+              url: "/images/zawody-shidokan-1.webp",
+              thumbnail: {
+                alt: "Zawodnicy turnieju sportów walki siedzący w rzędzie na macie",
+              },
+            },
+            {
+              url: "/images/zawody-shidokan-2.webp",
+              thumbnail: {
+                alt: "Pamiątkowe zdjęcie zawodników z medalami",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -374,6 +446,28 @@ export default function Timeline_pl() {
         />
 
         <TimelineItem
+          title="Uczestnictwo w warsztatach nt. zakładania i prowadzenia firmy"
+          date="2008"
+          content={
+            <>
+              <p>
+                Zainteresowany aspektami prowadzenia działalności gospodarczej
+                wziąłem udział w warsztatach przybliżających kwestie związane z
+                zakładaniem i prowadzeniem biznesu.
+              </p>
+            </>
+          }
+          medias={[
+            {
+              url: "/images/certyfikat-sfbcc-kielce.webp",
+              thumbnail: {
+                alt: "Certyfikat potwierdzający uczestnictwo Adriana Bieniasa w warsztatach nt. prowadzenia własnej firmy",
+              },
+            },
+          ]}
+        />
+
+        <TimelineItem
           title="Prowadzenie serwisu sprzątającego"
           date="2009"
           content={
@@ -406,6 +500,14 @@ export default function Timeline_pl() {
               </p>
             </>
           }
+          medias={[
+            {
+              url: "/images/strona-serwisu-sprzatajacego.webp",
+              thumbnail: {
+                alt: 'Zrzut ekranu strony internetowej serwisu sprzątającego "Chicago"',
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -446,6 +548,26 @@ export default function Timeline_pl() {
               </p>
             </>
           }
+          medias={[
+            {
+              url: "/images/strona-easyallegro.webp",
+              thumbnail: {
+                alt: 'Zrzut ekranu strony internetowej serwisu "easyallegro"',
+              },
+            },
+            {
+              url: "/images/szablon-allegro.webp",
+              thumbnail: {
+                alt: "Szablon allegro przeznaczony do sprzedaży armatury łazienkowej",
+              },
+            },
+            {
+              url: "/images/kreator-szablonow-allegro.webp",
+              thumbnail: {
+                alt: "Zrzut ekranu narzędzia do generowania szablonów allegro",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -491,6 +613,14 @@ export default function Timeline_pl() {
               </p>
             </>
           }
+          medias={[
+            {
+              url: "/images/choinkowy-biznes.webp",
+              thumbnail: {
+                alt: "Adrian Bienias w ubraniu roboczym i czapce mikołaja z sekatorem na tle choinek",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -513,6 +643,20 @@ export default function Timeline_pl() {
               </p>
             </>
           }
+          medias={[
+            {
+              url: "/images/wiersz-o-banku.webp",
+              thumbnail: {
+                alt: 'Wiersz "O Banku"',
+              },
+            },
+            {
+              url: "/images/pod-wieza-eiffla.webp",
+              thumbnail: {
+                alt: "Adrian Bienias w Paryżu przed wieżą Eiffla",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -542,6 +686,32 @@ export default function Timeline_pl() {
               </p>
             </>
           }
+          medias={[
+            {
+              url: "/images/wizualizacja-lazienki-1.webp",
+              thumbnail: {
+                alt: "Wizualizacja 3D łazienki",
+              },
+            },
+            {
+              url: "/images/wizualizacja-salonu-1.webp",
+              thumbnail: {
+                alt: "Wizualizacja 3D salonu",
+              },
+            },
+            {
+              url: "/images/wizualizacja-domu.webp",
+              thumbnail: {
+                alt: "Wizualizacja 3D domu",
+              },
+            },
+            {
+              url: "/images/wizualizacja-salonu-2.webp",
+              thumbnail: {
+                alt: "Wizualizacja 3D salonu",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -567,6 +737,20 @@ export default function Timeline_pl() {
               </p>
             </>
           }
+          medias={[
+            {
+              url: "/images/fabryka-jung-2.webp",
+              thumbnail: {
+                alt: "Adrian Bienias przed fabryką Jung w Dortmundzie",
+              },
+            },
+            {
+              url: "/images/fabryka-jung-1.webp",
+              thumbnail: {
+                alt: "Adrian Bienias przed ekranem powitalnym w fabryce Jung",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -581,9 +765,28 @@ export default function Timeline_pl() {
               <p>
                 Kupując, motocykl spełniłem jedno ze swoich dziecięcych marzeń.
               </p>
-              {/* <p>https://www.youtube.com/watch?v=VIpVnYNpINI</p> */}
             </>
           }
+          medias={[
+            {
+              url: "/images/na-motorze-yamaha-r6.webp",
+              thumbnail: {
+                alt: "Adrian Bienias na motorze Yamaha R6",
+              },
+            },
+            {
+              url: "/images/na-motorze-yamaha-fz6.webp",
+              thumbnail: {
+                alt: "Adrian Bienias na motorze Yamaha FZ6",
+              },
+            },
+            {
+              url: "https://www.youtube.com/watch?v=VIpVnYNpINI",
+              thumbnail: {
+                alt: "Miniatura filmu z serwisu YouTube z widokiem na drogę z perspektywy kierowcy motocykla",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -606,6 +809,14 @@ export default function Timeline_pl() {
               </p>
             </>
           }
+          medias={[
+            {
+              url: "/images/z-tomaszem-drwalem.webp",
+              thumbnail: {
+                alt: "Pamiątkowe zdjęcie Adriana Bieniasa z Tomaszem Drwalem",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -636,8 +847,6 @@ export default function Timeline_pl() {
                 </a>
                 .
               </p>
-              {/* AutoCad files' preview: https://viewer.autodesk.com/designviews */}
-
               <p>
                 Współpracowałem z agencją reklamową, realizując strony
                 internetowe.
@@ -646,7 +855,9 @@ export default function Timeline_pl() {
                 Tworzyłem szablony WordPress m.in. dla{" "}
                 <a href="https://mrvintage.pl/" target="_blank" rel="noopener">
                   Mr. Vintage
-                </a>
+                </a>{" "}
+                oraz sklepy internetowe np. do sprzedaży sprzętu
+                stomatologicznego.
               </p>
               <p>
                 Finalnie całkowicie postawiłem na web development, rezygnując z
@@ -654,6 +865,32 @@ export default function Timeline_pl() {
               </p>
             </>
           }
+          medias={[
+            {
+              url: "/images/wizualizacja-maxipizza.webp",
+              thumbnail: {
+                alt: "Wizualizacja lokalu MaxiPizza w Warszawie",
+              },
+            },
+            {
+              url: "/images/pkp-prowadnice-drazka-napedowego-odlacznika.webp",
+              thumbnail: {
+                alt: "Rysunek CAD 3D prowadnicy drążka napędowego odłącznika trakcji PKP",
+              },
+            },
+            {
+              url: "/images/bluesuit.webp",
+              thumbnail: {
+                alt: "Zrzut ekranu ze strony internetowej bluesuit",
+              },
+            },
+            {
+              url: "/images/sklep-stomadent.webp",
+              thumbnail: {
+                alt: "Zrzut ekranu sklepu internetowego z produktami stomatologicznymi",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -681,6 +918,20 @@ export default function Timeline_pl() {
               <p>Ostatecznie sprzedałem serwis.</p>
             </>
           }
+          medias={[
+            {
+              url: "/images/biuro-kuvi-pl.webp",
+              thumbnail: {
+                alt: "Biuro kuvi.pl",
+              },
+            },
+            {
+              url: "/images/kuvi-pl.webp",
+              thumbnail: {
+                alt: "Zrzut ekranu ze strony internetowej kuvi.pl",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -711,14 +962,28 @@ export default function Timeline_pl() {
               <p>
                 Do tej pory łącznie wykonałem ponad 110 samodzielnych skoków.
               </p>
-
-              {/* <p>Kompilacja: https://www.youtube.com/watch?v=CySvBP03ZSY</p>
-              <p>Tracking grip: https://www.youtube.com/watch?v=ym_ilwvB-fo</p>
-              <p>
-                Wideo z egzaminu: https://www.youtube.com/watch?v=SBlcAD_rPcA
-              </p> */}
             </>
           }
+          medias={[
+            {
+              url: "https://www.youtube.com/watch?v=CySvBP03ZSY",
+              thumbnail: {
+                alt: "Miniatura filmu z YouTube",
+              },
+            },
+            {
+              url: "https://www.youtube.com/watch?v=SBlcAD_rPcA",
+              thumbnail: {
+                alt: "Miniatura filmu z YouTube",
+              },
+            },
+            {
+              url: "https://www.youtube.com/watch?v=JXyICrc6Drk",
+              thumbnail: {
+                alt: "Miniatura filmu z YouTube",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -735,9 +1000,16 @@ export default function Timeline_pl() {
                 swoim uczniom, dodatkowo zaprosił mnie do poprowadzenia lekcji w
                 technikum informatycznym.
               </p>
-              {/* <p>https://www.youtube.com/watch?v=qzMPrVJL0_Q</p> */}
             </>
           }
+          medias={[
+            {
+              url: "https://www.youtube.com/watch?v=qzMPrVJL0_Q",
+              thumbnail: {
+                alt: "Miniatura filmu z YouTube",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -749,16 +1021,17 @@ export default function Timeline_pl() {
                 Wystąpiłem jako jeden z prelegentów na wydarzeniu organizowanym
                 pod nazwą EduCamp.
               </p>
-              {/* <p>https://www.youtube.com/watch?v=7rjlBEE_VoU</p> */}
             </>
           }
+          medias={[
+            {
+              url: "https://www.youtube.com/watch?v=7rjlBEE_VoU",
+              thumbnail: {
+                alt: "Miniatura filmu z YouTube",
+              },
+            },
+          ]}
         />
-
-        {/* <TimelineItem
-          title="Zrealizowanie szkolenia wideo z Dubaju"
-          date="2014"
-          content={<></>}
-        /> */}
 
         <TimelineItem
           title="Prelegent na TechKlub Kielce"
@@ -769,9 +1042,17 @@ export default function Timeline_pl() {
                 Przybliżyłem uczestnikom moje podejście do blogowania i
                 prowadzenia biznesu w oparciu o świadczenie usług edukacyjnych.
               </p>
-              {/* <p>https://www.youtube.com/watch?v=zCbevj2w_hE</p> */}
             </>
           }
+          medias={[
+            {
+              url: "https://www.youtube.com/watch?v=zCbevj2w_hE",
+              thumbnail: {
+                url: "/images/prelekcja-techklub.webp",
+                alt: "Miniatura filmu z YouTube",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -816,6 +1097,32 @@ export default function Timeline_pl() {
               </p>
             </>
           }
+          medias={[
+            {
+              url: "/images/krabi-tajlandia.webp",
+              thumbnail: {
+                alt: "Adrian Bienias na plaży przed łódkami w Tajlandi",
+              },
+            },
+            {
+              url: "/images/basen-kuala-lumpur.webp",
+              thumbnail: {
+                alt: "Adrian Bienias nurkujący w basenie w Kuala Lumpur w Malezji",
+              },
+            },
+            {
+              url: "/images/singapur.webp",
+              thumbnail: {
+                alt: "Adrian Bienias pod budynkiem Marina Bay Sands w Singapurze",
+              },
+            },
+            {
+              url: "/images/petronas-towers-kuala-lumpur.webp",
+              thumbnail: {
+                alt: "Adrian Bienias stojący po wieżami Petronas Towers w Kuala Lumpur w Malezji",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -827,9 +1134,22 @@ export default function Timeline_pl() {
                 Wziąłem udział w 3 dniowym wydarzeniu jako deweloper, dołączając
                 do zespołu realizującego pomysł na biznes w formie hackathonu.
               </p>
-              {/* <p>https://www.youtube.com/watch?v=5nxjtRbSlEk</p> */}
             </>
           }
+          medias={[
+            {
+              url: "/images/gadzety-startup-weekend-kielce.webp",
+              thumbnail: {
+                alt: "Gadżety z udziału w wydarzeniu Startup Weekend Kielce #2",
+              },
+            },
+            {
+              url: "https://www.youtube.com/watch?v=5nxjtRbSlEk",
+              thumbnail: {
+                alt: "Miniatura filmu z YouTube",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -841,9 +1161,22 @@ export default function Timeline_pl() {
                 Wystąpiłem jako prelegent, dzieląc się swoim doświadczeniem z
                 prowadzenia biznesu opartego o tworzenie kursów wideo.
               </p>
-              {/* <p>https://www.youtube.com/watch?v=qTTD1OkGRIA</p> */}
             </>
           }
+          medias={[
+            {
+              url: "/images/sfbcc-poznan.webp",
+              thumbnail: {
+                alt: "Adrian Bienias podczas prezentacji w sali",
+              },
+            },
+            {
+              url: "https://www.youtube.com/watch?v=qTTD1OkGRIA",
+              thumbnail: {
+                alt: "Miniatura filmu z YouTube",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -858,6 +1191,20 @@ export default function Timeline_pl() {
               </p>
             </>
           }
+          medias={[
+            {
+              url: "/images/certyfikat-z-kongresu-brian-tracy.webp",
+              thumbnail: {
+                alt: "Certyfikat dla Adriana Bieniasa potwierdzający uczestnictwo w kongresie z Brianem Tracy",
+              },
+            },
+            {
+              url: "/images/plakietka-z-kongresu-brian-tracy.webp",
+              thumbnail: {
+                alt: 'Plakietka z kongresu "Maksimum Osiągnięć" z Brianem Tracy',
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -872,6 +1219,14 @@ export default function Timeline_pl() {
               </p>
             </>
           }
+          medias={[
+            {
+              url: "/images/meet-js-kielce.webp",
+              thumbnail: {
+                alt: "Grafika przedstawiająca Adriana Bieniasa jaka prelegenta wydarzenia Meet.js",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -897,6 +1252,20 @@ export default function Timeline_pl() {
               </p>
             </>
           }
+          medias={[
+            {
+              url: "/images/praca-w-biurze-atlassian.webp",
+              thumbnail: {
+                alt: "Adrian Bienias siedzący przed komputerem w Gdańskim biurze firmy Atlassian",
+              },
+            },
+            {
+              url: "/images/jira-credits.webp",
+              thumbnail: {
+                alt: "Lista osób biorących udział w tworzeniu oprogramowania Jira z podkreśloną pozycją Adrian Bienias",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -908,9 +1277,16 @@ export default function Timeline_pl() {
                 Chcąc rozwijać swoje umiejętności wystąpień publicznych, wziąłem
                 udział w praktycznych warsztatach.
               </p>
-              {/* <p>https://www.youtube.com/watch?v=uYi14rRXNIY</p> */}
             </>
           }
+          medias={[
+            {
+              url: "https://www.youtube.com/watch?v=uYi14rRXNIY",
+              thumbnail: {
+                alt: "Miniatura filmu z YouTube",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -932,13 +1308,15 @@ export default function Timeline_pl() {
               </p>
             </>
           }
+          medias={[
+            {
+              url: "/images/certyfikat-niebezpiecznik.webp",
+              thumbnail: {
+                alt: 'Certyfikat dla Adriana Bieniasa potwierdzający odbycie szkolenia "Atakowanie i Ochrona Webaplikacji" przeprowadzonego przez Niebezpiecznik.pl',
+              },
+            },
+          ]}
         />
-
-        {/* <TimelineItem
-          title='Zwycięstwo wewnętrznego konkursu "Shipit" w firmie Atlassian'
-          date="2019"
-          content={<></>}
-        /> */}
 
         <TimelineItem
           title="Odbycie szkolenia windsurfingu"
@@ -951,6 +1329,14 @@ export default function Timeline_pl() {
               </p>
             </>
           }
+          medias={[
+            {
+              url: "/images/windsurfing.webp",
+              thumbnail: {
+                alt: "Adrian Bienias na desce windsurfingowej",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -965,6 +1351,14 @@ export default function Timeline_pl() {
               </p>
             </>
           }
+          medias={[
+            {
+              url: "/images/legitymacja-krwiodawcy.webp",
+              thumbnail: {
+                alt: "Legitymacja Adriana Bieniasa zasłużonego honorowego dawcy krwi",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -1026,6 +1420,20 @@ export default function Timeline_pl() {
               </p>
             </>
           }
+          medias={[
+            {
+              url: "/images/silesia-ring-hot-hatch-cup.webp",
+              thumbnail: {
+                alt: "Adrian Bienias w samochodzie Hyundai i30n na torze Silesia Ring",
+              },
+            },
+            {
+              url: "/images/silesia-ring-czasy.webp",
+              thumbnail: {
+                alt: "Lista czasów okrążeń Adriana Bieniasa na torze Silesia Ring",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -1052,6 +1460,14 @@ export default function Timeline_pl() {
               </p>
             </>
           }
+          medias={[
+            {
+              url: "/images/100-bugow-js.webp",
+              thumbnail: {
+                alt: "Logo JavaScript z robakami dookoła",
+              },
+            },
+          ]}
         />
 
         <TimelineItem

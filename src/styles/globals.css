@@ -31,7 +31,7 @@
   }
 
   img {
-    @apply block;
+    @apply align-bottom;
   }
 
   button {

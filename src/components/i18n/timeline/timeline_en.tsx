@@ -26,7 +26,16 @@ export default function Timeline_en() {
               </p>
             </>
           }
+          medias={[
+            {
+              url: "/images/kurs-html-w-cd-action.webp",
+              thumbnail: {
+                alt: "HTML course in CD-Action magazine",
+              },
+            },
+          ]}
         />
+
         <TimelineItem
           title="Distribution of advertising newspapers"
           date="2002"
@@ -49,6 +58,7 @@ export default function Timeline_en() {
             </>
           }
         />
+
         <TimelineItem
           title="LAN network administration"
           date="2002"
@@ -84,6 +94,7 @@ export default function Timeline_en() {
             </>
           }
         />
+
         <TimelineItem
           title="Running the first website"
           date="2003"
@@ -128,7 +139,16 @@ export default function Timeline_en() {
               </p>
             </>
           }
+          medias={[
+            {
+              url: "/images/strona-o-fingerboardzie.webp",
+              thumbnail: {
+                alt: "Screenshot from a website dedicated to fingerboards",
+              },
+            },
+          ]}
         />
+
         <TimelineItem
           title="Studied at Steinmetz High School in Chicago"
           date="2003"
@@ -151,6 +171,7 @@ export default function Timeline_en() {
             </>
           }
         />
+
         <TimelineItem
           title="Working on a construction site in Chicago"
           date="2003"
@@ -175,6 +196,7 @@ export default function Timeline_en() {
             </>
           }
         />
+
         <TimelineItem
           title="Working at a grocery store in Chicago"
           date="2003"
@@ -194,6 +216,7 @@ export default function Timeline_en() {
             </>
           }
         />
+
         <TimelineItem
           title="4-time winner of the typing competition on the keyboard"
           date="2004 - 2008"
@@ -217,7 +240,34 @@ export default function Timeline_en() {
               </p>
             </>
           }
+          medias={[
+            {
+              url: "/images/dyplom-lowimy-talenty-1.webp",
+              thumbnail: {
+                alt: "Diploma for Adrian Bienias for taking 1st place in the 3rd school competition of fast and correct typing on the keyboard",
+              },
+            },
+            {
+              url: "/images/dyplom-lowimy-talenty-2.webp",
+              thumbnail: {
+                alt: "Diploma for Adrian Bienias for taking 1st place in the 4rd school competition of fast and correct typing on the keyboard",
+              },
+            },
+            {
+              url: "/images/dyplom-lowimy-talenty-3.webp",
+              thumbnail: {
+                alt: "Diploma for Adrian Bienias for taking 1st place in the 5th school competition of fast and correct typing on the keyboard",
+              },
+            },
+            {
+              url: "/images/dyplom-lowimy-talenty-4.webp",
+              thumbnail: {
+                alt: "Diploma for Adrian Bienias for taking 1st place in the 6th school competition of fast and correct typing on the keyboard",
+              },
+            },
+          ]}
         />
+
         <TimelineItem
           title="Protecting mass events"
           date="2006"
@@ -234,6 +284,14 @@ export default function Timeline_en() {
               </p>
             </>
           }
+          medias={[
+            {
+              url: "/images/zaswiadczenie-szkolenia-euro-partner-security.webp",
+              thumbnail: {
+                alt: "Adrian Bienias's certificate of training for members of security services",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -258,6 +316,14 @@ export default function Timeline_en() {
               </p>
             </>
           }
+          medias={[
+            {
+              url: "/images/strona-shidokan-karate-kielce.webp",
+              thumbnail: {
+                alt: "Screenshot of the website of the Kielce Shidokan karate club",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -276,6 +342,20 @@ export default function Timeline_en() {
               </p>
             </>
           }
+          medias={[
+            {
+              url: "/images/zawody-shidokan-1.webp",
+              thumbnail: {
+                alt: "Fighters of a combat sports tournament sitting in a row on a mat",
+              },
+            },
+            {
+              url: "/images/zawody-shidokan-2.webp",
+              thumbnail: {
+                alt: "Commemorative photo of players with medals",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -358,6 +438,28 @@ export default function Timeline_en() {
         />
 
         <TimelineItem
+          title="Participation in workshops on setting up and running a business"
+          date="2008"
+          content={
+            <>
+              <p>
+                Interested in the aspects of running a business, I took part in
+                workshops focusing on issues related to starting and running a
+                business.
+              </p>
+            </>
+          }
+          medias={[
+            {
+              url: "/images/certyfikat-sfbcc-kielce.webp",
+              thumbnail: {
+                alt: "Certificate confirming Adrian Bienias' participation in workshops on running your own business",
+              },
+            },
+          ]}
+        />
+
+        <TimelineItem
           title="Running a cleaning service"
           date="2009"
           content={
@@ -391,6 +493,14 @@ export default function Timeline_en() {
               </p>
             </>
           }
+          medias={[
+            {
+              url: "/images/strona-serwisu-sprzatajacego.webp",
+              thumbnail: {
+                alt: 'Screenshot of the "Chicago" cleaning service website',
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -431,6 +541,26 @@ export default function Timeline_en() {
               </p>
             </>
           }
+          medias={[
+            {
+              url: "/images/strona-easyallegro.webp",
+              thumbnail: {
+                alt: 'Screenshot of the "easyallegro" website',
+              },
+            },
+            {
+              url: "/images/szablon-allegro.webp",
+              thumbnail: {
+                alt: "Allegro template for sale of bathroom fittings",
+              },
+            },
+            {
+              url: "/images/kreator-szablonow-allegro.webp",
+              thumbnail: {
+                alt: "Screenshot of the allegro template generation tool",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -475,6 +605,14 @@ export default function Timeline_en() {
               </p>
             </>
           }
+          medias={[
+            {
+              url: "/images/choinkowy-biznes.webp",
+              thumbnail: {
+                alt: "Adrian Bienias in working clothes and a Santa hat with a pruning shears against the background of Christmas trees",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -496,6 +634,20 @@ export default function Timeline_en() {
               </p>
             </>
           }
+          medias={[
+            {
+              url: "/images/wiersz-o-banku.webp",
+              thumbnail: {
+                alt: 'Poem "About the Bank"',
+              },
+            },
+            {
+              url: "/images/pod-wieza-eiffla.webp",
+              thumbnail: {
+                alt: "Adrian Bienias in Paris in front of the Eiffel Tower",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -525,6 +677,32 @@ export default function Timeline_en() {
               </p>
             </>
           }
+          medias={[
+            {
+              url: "/images/wizualizacja-lazienki-1.webp",
+              thumbnail: {
+                alt: "3D visualization of the bathroom",
+              },
+            },
+            {
+              url: "/images/wizualizacja-salonu-1.webp",
+              thumbnail: {
+                alt: "3D visualization of the living room",
+              },
+            },
+            {
+              url: "/images/wizualizacja-domu.webp",
+              thumbnail: {
+                alt: "3D visualization of the house",
+              },
+            },
+            {
+              url: "/images/wizualizacja-salonu-2.webp",
+              thumbnail: {
+                alt: "3D visualization of the living room",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -551,6 +729,20 @@ export default function Timeline_en() {
               </p>
             </>
           }
+          medias={[
+            {
+              url: "/images/fabryka-jung-2.webp",
+              thumbnail: {
+                alt: "Adrian Bienias in front of the Jung factory in Dortmund",
+              },
+            },
+            {
+              url: "/images/fabryka-jung-1.webp",
+              thumbnail: {
+                alt: "Adrian Bienias in front of the welcome screen at the Jung factory",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -565,9 +757,28 @@ export default function Timeline_en() {
               <p>
                 By buying a motorcycle, I fulfilled one of my childhood dreams.
               </p>
-              {/* <p>https://www.youtube.com/watch?v=VIpVnYNpINI</p> */}
             </>
           }
+          medias={[
+            {
+              url: "/images/na-motorze-yamaha-r6.webp",
+              thumbnail: {
+                alt: "Adrian Bienias on a Yamaha R6 motorcycle",
+              },
+            },
+            {
+              url: "/images/na-motorze-yamaha-fz6.webp",
+              thumbnail: {
+                alt: "Adrian Bienias on a Yamaha FZ6 motorcycle",
+              },
+            },
+            {
+              url: "https://www.youtube.com/watch?v=VIpVnYNpINI",
+              thumbnail: {
+                alt: "Thumbnail of a YouTube video with a view of the road from the motorcycle rider's perspective",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -590,6 +801,14 @@ export default function Timeline_en() {
               </p>
             </>
           }
+          medias={[
+            {
+              url: "/images/z-tomaszem-drwalem.webp",
+              thumbnail: {
+                alt: "A commemorative photo of Adrian Bienias with Tomasz Drwal",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -627,7 +846,8 @@ export default function Timeline_en() {
                 I created WordPress templates, e.g. for{" "}
                 <a href="https://mrvintage.pl/" target="_blank" rel="noopener">
                   Mr. Vintage
-                </a>
+                </a>{" "}
+                and online stores, e.g. for the sale of dental equipment.
               </p>
               <p>
                 Finally, I completely focused on web development, resigning from
@@ -635,6 +855,32 @@ export default function Timeline_en() {
               </p>
             </>
           }
+          medias={[
+            {
+              url: "/images/wizualizacja-maxipizza.webp",
+              thumbnail: {
+                alt: "Visualization of the MaxiPizza restaurant in Warsaw",
+              },
+            },
+            {
+              url: "/images/pkp-prowadnice-drazka-napedowego-odlacznika.webp",
+              thumbnail: {
+                alt: "3D CAD drawing of the drive rod guide of the PKP traction disconnector",
+              },
+            },
+            {
+              url: "/images/bluesuit.webp",
+              thumbnail: {
+                alt: "Screenshot from the bluesuit website",
+              },
+            },
+            {
+              url: "/images/sklep-stomadent.webp",
+              thumbnail: {
+                alt: "Screenshot of an online store with dental products",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -661,6 +907,20 @@ export default function Timeline_en() {
               <p>I finally sold the site.</p>
             </>
           }
+          medias={[
+            {
+              url: "/images/biuro-kuvi-pl.webp",
+              thumbnail: {
+                alt: "Office kuvi.pl",
+              },
+            },
+            {
+              url: "/images/kuvi-pl.webp",
+              thumbnail: {
+                alt: "Screenshot from the kuvi.pl website",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -688,14 +948,28 @@ export default function Timeline_en() {
                 affected my ability to perform exam tasks in the air.
               </p>
               <p>So far, I have made over 110 independent skydives in total.</p>
-
-              {/* <p>Kompilacja: https://www.youtube.com/watch?v=CySvBP03ZSY</p>
-              <p>Tracking grip: https://www.youtube.com/watch?v=ym_ilwvB-fo</p>
-              <p>
-                Wideo z egzaminu: https://www.youtube.com/watch?v=SBlcAD_rPcA
-              </p> */}
             </>
           }
+          medias={[
+            {
+              url: "https://www.youtube.com/watch?v=CySvBP03ZSY",
+              thumbnail: {
+                alt: "YouTube video thumbnail",
+              },
+            },
+            {
+              url: "https://www.youtube.com/watch?v=SBlcAD_rPcA",
+              thumbnail: {
+                alt: "YouTube video thumbnail",
+              },
+            },
+            {
+              url: "https://www.youtube.com/watch?v=JXyICrc6Drk",
+              thumbnail: {
+                alt: "YouTube video thumbnail",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -712,9 +986,16 @@ export default function Timeline_en() {
                 students, additionally invited me to teach a lesson in an IT
                 technical school.
               </p>
-              {/* <p>https://www.youtube.com/watch?v=qzMPrVJL0_Q</p> */}
             </>
           }
+          medias={[
+            {
+              url: "https://www.youtube.com/watch?v=qzMPrVJL0_Q",
+              thumbnail: {
+                alt: "YouTube video thumbnail",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -726,9 +1007,16 @@ export default function Timeline_en() {
                 I appeared as one of the speakers at an event organized under
                 the name of EduCamp.
               </p>
-              {/* <p>https://www.youtube.com/watch?v=7rjlBEE_VoU</p> */}
             </>
           }
+          medias={[
+            {
+              url: "https://www.youtube.com/watch?v=7rjlBEE_VoU",
+              thumbnail: {
+                alt: "YouTube video thumbnail",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -741,9 +1029,17 @@ export default function Timeline_en() {
                 running a business based on the provision of educational
                 services.
               </p>
-              {/* <p>https://www.youtube.com/watch?v=zCbevj2w_hE</p> */}
             </>
           }
+          medias={[
+            {
+              url: "https://www.youtube.com/watch?v=zCbevj2w_hE",
+              thumbnail: {
+                url: "/images/prelekcja-techklub.webp",
+                alt: "YouTube video thumbnail",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -787,6 +1083,32 @@ export default function Timeline_en() {
               </p>
             </>
           }
+          medias={[
+            {
+              url: "/images/krabi-tajlandia.webp",
+              thumbnail: {
+                alt: "Adrian Bienias on the beach in front of the boats in Thailand",
+              },
+            },
+            {
+              url: "/images/basen-kuala-lumpur.webp",
+              thumbnail: {
+                alt: "Adrian Bienias diving in a swimming pool in Kuala Lumpur, Malaysia",
+              },
+            },
+            {
+              url: "/images/singapur.webp",
+              thumbnail: {
+                alt: "Adrian Bienias outside the Marina Bay Sands building in Singapore",
+              },
+            },
+            {
+              url: "/images/petronas-towers-kuala-lumpur.webp",
+              thumbnail: {
+                alt: "Adrian Bienias standing at the Petronas Towers in Kuala Lumpur, Malaysia",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -798,9 +1120,22 @@ export default function Timeline_en() {
                 I took part in a 3-day event as a developer, joining the team
                 implementing a business idea in the form of a hackathon.
               </p>
-              {/* <p>https://www.youtube.com/watch?v=5nxjtRbSlEk</p> */}
             </>
           }
+          medias={[
+            {
+              url: "/images/gadzety-startup-weekend-kielce.webp",
+              thumbnail: {
+                alt: "Gadgets from participation in the Startup Weekend Kielce #2 event",
+              },
+            },
+            {
+              url: "https://www.youtube.com/watch?v=5nxjtRbSlEk",
+              thumbnail: {
+                alt: "YouTube video thumbnail",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -812,9 +1147,22 @@ export default function Timeline_en() {
                 I appeared as a speaker, sharing my experience of running a
                 business based on creating video courses.
               </p>
-              {/* <p>https://www.youtube.com/watch?v=qTTD1OkGRIA</p> */}
             </>
           }
+          medias={[
+            {
+              url: "/images/sfbcc-poznan.webp",
+              thumbnail: {
+                alt: "Adrian Bienias during a presentation in the hall",
+              },
+            },
+            {
+              url: "https://www.youtube.com/watch?v=qTTD1OkGRIA",
+              thumbnail: {
+                alt: "YouTube video thumbnail",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -829,6 +1177,20 @@ export default function Timeline_en() {
               </p>
             </>
           }
+          medias={[
+            {
+              url: "/images/certyfikat-z-kongresu-brian-tracy.webp",
+              thumbnail: {
+                alt: "Certificate for Adrian Bienias confirming participation in the congress with Brian Tracy",
+              },
+            },
+            {
+              url: "/images/plakietka-z-kongresu-brian-tracy.webp",
+              thumbnail: {
+                alt: 'Pin from the "Maximum Achievement" convention with Brian Tracy',
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -843,6 +1205,14 @@ export default function Timeline_en() {
               </p>
             </>
           }
+          medias={[
+            {
+              url: "/images/meet-js-kielce.webp",
+              thumbnail: {
+                alt: "Graphic of Adrian Bienias as a speaker of the Meet.js event",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -869,6 +1239,20 @@ export default function Timeline_en() {
               </p>
             </>
           }
+          medias={[
+            {
+              url: "/images/praca-w-biurze-atlassian.webp",
+              thumbnail: {
+                alt: "Adrian Bienias sitting in front of a computer in Atlassian's Gdańsk office",
+              },
+            },
+            {
+              url: "/images/jira-credits.webp",
+              thumbnail: {
+                alt: "List of people involved in the development of Jira software with Adrian Bienias underlined",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -880,9 +1264,16 @@ export default function Timeline_en() {
                 Wanting to develop my public speaking skills, I took part in
                 practical workshops.
               </p>
-              {/* <p>https://www.youtube.com/watch?v=uYi14rRXNIY</p> */}
             </>
           }
+          medias={[
+            {
+              url: "https://www.youtube.com/watch?v=uYi14rRXNIY",
+              thumbnail: {
+                alt: "YouTube video thumbnail",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -904,6 +1295,14 @@ export default function Timeline_en() {
               </p>
             </>
           }
+          medias={[
+            {
+              url: "/images/certyfikat-niebezpiecznik.webp",
+              thumbnail: {
+                alt: 'Certificate for Adrian Bienias confirming the training "Attacking and Protecting Web Applications" conducted by Niebezpiecznik.pl',
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -917,6 +1316,14 @@ export default function Timeline_en() {
               </p>
             </>
           }
+          medias={[
+            {
+              url: "/images/windsurfing.webp",
+              thumbnail: {
+                alt: "Adrian Bienias on a windsurfing board",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -931,6 +1338,14 @@ export default function Timeline_en() {
               </p>
             </>
           }
+          medias={[
+            {
+              url: "/images/legitymacja-krwiodawcy.webp",
+              thumbnail: {
+                alt: "ID card of Adrian Bienias, a distinguished honorary blood donor",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -992,6 +1407,20 @@ export default function Timeline_en() {
               </p>
             </>
           }
+          medias={[
+            {
+              url: "/images/silesia-ring-hot-hatch-cup.webp",
+              thumbnail: {
+                alt: "Adrian Bienias in the Hyundai i30n car on the Silesia Ring track",
+              },
+            },
+            {
+              url: "/images/silesia-ring-czasy.webp",
+              thumbnail: {
+                alt: "List of lap times of Adrian Bienias on the Silesia Ring track",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -1018,6 +1447,14 @@ export default function Timeline_en() {
               </p>
             </>
           }
+          medias={[
+            {
+              url: "/images/100-bugow-js.webp",
+              thumbnail: {
+                alt: "JavaScript logo with worms around",
+              },
+            },
+          ]}
         />
 
         <TimelineItem

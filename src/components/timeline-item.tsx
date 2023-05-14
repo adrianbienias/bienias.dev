@@ -1,11 +1,13 @@
+import { Media, Props as MediaProps } from "@/components/timeline-media"
+
 type Props = {
   title: string
   date: string
   content?: React.ReactNode
-  media?: React.ReactNode
+  medias?: MediaProps[]
 }
 
-export function TimelineItem({ title, date, content, media }: Props) {
+export function TimelineItem({ title, date, content, medias }: Props) {
   return (
     <li className="group">
       <div className="grid grid-cols-[32px_1fr]">
@@ -39,7 +41,15 @@ export function TimelineItem({ title, date, content, media }: Props) {
         <div className="text-base font-normal text-gray-500 mb-16 ml-4">
           {content}
 
-          <div className="max-w-sm flex mt-6">{media}</div>
+          {medias && (
+            <div
+              className={`mt-8 grid gap-4 grid-cols-[repeat(auto-fill,minmax(130px,1fr))]`}
+            >
+              {medias.map((media, index) => (
+                <Media media={media} key={index} />
+              ))}
+            </div>
+          )}
         </div>
       </div>
     </li>
