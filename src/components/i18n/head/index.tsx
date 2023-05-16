@@ -1,15 +1,15 @@
-import Home_en from "./home_en"
-import Home_pl from "./home_pl"
+import Head_en from "./head_en"
+import Head_pl from "./head_pl"
 
 const locale = process.env.NEXT_PUBLIC_LOCALE
 
-export default function Home() {
+export default function Head() {
   switch (locale) {
     case "en": {
-      return <Home_en />
+      return <Head_en />
     }
     case "pl": {
-      return <Home_pl />
+      return <Head_pl />
     }
     default: {
       throw new Error("Missing locale")

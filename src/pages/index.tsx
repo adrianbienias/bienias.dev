@@ -1,5 +1,4 @@
 import Footer from "@/components/i18n/footer"
-import Home from "@/components/i18n/home"
 import Timeline from "@/components/i18n/timeline"
 import Links from "@/components/links"
 import Obfuscate from "react-obfuscate"
@@ -7,8 +6,6 @@ import Obfuscate from "react-obfuscate"
 export default function Index() {
   return (
     <>
-      <Home />
-
       <main>
         <div className="bg-slate-700 bg-cover bg-center bg-hero">
           <div className="max-w-screen-sm mx-auto sticky top-0">
