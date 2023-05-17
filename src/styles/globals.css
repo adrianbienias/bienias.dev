@@ -30,7 +30,8 @@
     @apply md:text-lg text-justify text-slate-500;
   }
 
-  img {
+  img,
+  iframe {
     @apply align-bottom;
   }
 
