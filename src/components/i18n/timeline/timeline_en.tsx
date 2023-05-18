@@ -1453,6 +1453,13 @@ export default function Timeline_en() {
           }
           medias={[
             {
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/silesia-ring-czasy.webp",
+              thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/silesia-ring-czasy.webp",
+                alt: "List of lap times of Adrian Bienias on the Silesia Ring track",
+              },
+            },
+            {
               url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/silesia-ring-hot-hatch-cup.webp",
               thumbnail: {
                 url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/silesia-ring-hot-hatch-cup.webp",
@@ -1460,10 +1467,9 @@ export default function Timeline_en() {
               },
             },
             {
-              url: "https://res.cloudinary.com/djcrikddy/image/upload/bienias.dev/silesia-ring-czasy.webp",
+              url: "https://www.youtube.com/watch?v=vCVg0poo-Dw",
               thumbnail: {
-                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/silesia-ring-czasy.webp",
-                alt: "List of lap times of Adrian Bienias on the Silesia Ring track",
+                alt: "YouTube video thumbnail",
               },
             },
           ]}
