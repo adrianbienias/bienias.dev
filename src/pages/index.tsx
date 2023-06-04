@@ -7,7 +7,7 @@ export default function Index() {
     <>
       <main>
         <div className="bg-slate-700 bg-cover bg-center bg-hero px-4">
-          <div className="max-w-screen-lg mx-auto sticky top-0">
+          <div className="max-w-screen-lg mx-auto sticky top-0 z-10">
             <nav>
               <div className="flex justify-end">
                 <ul className="my-2 px-3 py-1.5 rounded backdrop-blur-sm list-none inline-flex gap-2 text-xl bg-slate-800/50">
