@@ -7,6 +7,35 @@ export default function Timeline_pl() {
 
       <ol className="list-none p-0">
         <TimelineItem
+          title="Uczęszczanie do Dziecięcej Akademii Komputerowej"
+          date="1997"
+          content={
+            <>
+              <p>Od dziecka interesowały mnie komputery i oprogramowanie.</p>
+              <p>
+                Moim pierwszym komputerem była Amiga 500 z systemem operacyjnym
+                Workbench. Później przesiadłem się na PC z procesorem Intel
+                Pentium 100 MHz i systemem Windows 3.11, a następnie Windows 95.
+              </p>
+              <p>
+                Równolegle z nauką w szkole podstawowej, już jako 10-latek
+                chętnie uczyłem się obsługi komputera, uczęszczając do
+                Dziecięcej Akademii Komputerowej.
+              </p>
+            </>
+          }
+          medias={[
+            {
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/v1699388881/bienias.dev/dziecieca-akademia-komputerowa-indeks.webp",
+              thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/dziecieca-akademia-komputerowa-indeks.webp",
+                alt: "Indeks z Dziecięcej Akademii Komputerowej z zaliczeniem obsługi systemu Windows 95 na ocenę bardzo dobrą",
+              },
+            },
+          ]}
+        />
+
+        <TimelineItem
           title="Nauka HTMLa i PHP"
           date="2001"
           content={
@@ -176,6 +205,15 @@ export default function Timeline_pl() {
               </p>
             </>
           }
+          medias={[
+            {
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/e_improve:outdoor/f_webp/bienias.dev/steimentz-highschool-chicago.webp",
+              thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/e_improve:outdoor/f_webp/bienias.dev/steimentz-highschool-chicago.webp",
+                alt: "Adrian Bienias przed szkołą Steinmetz College Prep w Chicago",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -1548,34 +1586,34 @@ export default function Timeline_pl() {
         />
 
         <TimelineItem
-          title="Powrót na etatową ścieżkę kariery"
+          title="Współpraca z firmą N-iX"
           date="2023"
           content={
             <>
               <p>
-                Zdecydowałem się wrócić na ścieżkę etatowej kariery web
-                developera.
-              </p>
-              <p>
-                Rozwiązywanie realnych problemów związanych z tworzeniem
-                oprogramowania, współpracując z programistami, od których mogę
-                się uczyć, wydaje się być najlepszą drogą dalszego rozwoju
-                umiejętności.
-              </p>
-              <p>
-                <a
-                  href="https://bienias.dev/cv-adrian-bienias.pdf"
-                  target="_blank"
-                  rel="noopener"
-                >
-                  Sprawdź moje CV
+                Jako Senior React Developer rozpocząłem współpracę z firmą{" "}
+                <a href="https://www.n-ix.com/" target="_blank" rel="noopener">
+                  N-iX
                 </a>
-                .
+                , świadcząc usługi z zakresu inżynierii oprogramowania dla ich
+                klienta, znanego hiszpańskiego holdingu odzieżowego.
               </p>
             </>
           }
         />
       </ol>
+
+      {/* <div className="pl-12">
+        <p>
+          <a
+            href="https://bienias.dev/cv-adrian-bienias.pdf"
+            target="_blank"
+            rel="noopener"
+          >
+            Sprawdź moje CV &raquo;
+          </a>
+        </p>
+      </div> */}
     </>
   )
 }

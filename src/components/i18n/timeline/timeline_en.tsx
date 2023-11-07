@@ -7,6 +7,38 @@ export default function Timeline_en() {
 
       <ol className="list-none p-0">
         <TimelineItem
+          title="Attending Children's Computer Academy"
+          date="1997"
+          content={
+            <>
+              <p>
+                I have been interested in computers and software since I was a
+                child.
+              </p>
+              <p>
+                My first computer was an Amiga 500 with Workbench OS. Later I
+                switched to a PC with an Intel Pentium 100 MHz processor and
+                Windows 3.11, then Windows 95.
+              </p>
+              <p>
+                In parallel with elementary school education, I eagerly learned
+                how to use a computer as a 10-year-old, attending the Children's
+                Computer Academy.
+              </p>
+            </>
+          }
+          medias={[
+            {
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/v1699388881/bienias.dev/dziecieca-akademia-komputerowa-indeks.webp",
+              thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/bienias.dev/dziecieca-akademia-komputerowa-indeks.webp",
+                alt: "Index from the Children's Computer Academy with A grade for operating Windows 95",
+              },
+            },
+          ]}
+        />
+
+        <TimelineItem
           title="Learning HTML and PHP"
           date="2001"
           content={
@@ -172,6 +204,15 @@ export default function Timeline_en() {
               </p>
             </>
           }
+          medias={[
+            {
+              url: "https://res.cloudinary.com/djcrikddy/image/upload/e_improve:outdoor/f_webp/bienias.dev/steimentz-highschool-chicago.webp",
+              thumbnail: {
+                url: "https://res.cloudinary.com/djcrikddy/image/upload/c_thumb,g_auto,c_fill,w_280,h_220/e_improve:outdoor/f_webp/bienias.dev/steimentz-highschool-chicago.webp",
+                alt: "Adrian Bienias in front of Steinmetz College Prep in Chicago",
+              },
+            },
+          ]}
         />
 
         <TimelineItem
@@ -1533,33 +1574,34 @@ export default function Timeline_en() {
         />
 
         <TimelineItem
-          title="Back to a full-time career path"
+          title="Cooperation with N-iX"
           date="2023"
           content={
             <>
               <p>
-                I decided to return to the path of a full-time career as a web
-                developer.
-              </p>
-              <p>
-                Solving real problems related to software development, working
-                with programmers from whom I can learn, seems to be the best way
-                to further develop my skills.
-              </p>
-              <p>
-                <a
-                  href="https://bienias.dev/cv-adrian-bienias.pdf"
-                  target="_blank"
-                  rel="noopener"
-                >
-                  Check out my resume
+                As a Senior React Developer, I started working with{" "}
+                <a href="https://www.n-ix.com/" target="_blank" rel="noopener">
+                  N-iX
                 </a>
-                .
+                , providing software engineering services for their client, a
+                well-known Spanish clothing holding company.
               </p>
             </>
           }
         />
       </ol>
+
+      {/* <div className="pl-12">
+        <p>
+          <a
+            href="https://bienias.dev/cv-adrian-bienias.pdf"
+            target="_blank"
+            rel="noopener"
+          >
+            Check out my resume &raquo;
+          </a>
+        </p>
+      </div> */}
     </>
   )
 }
