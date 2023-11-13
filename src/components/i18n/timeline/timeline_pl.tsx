@@ -117,9 +117,9 @@ export default function Timeline_pl() {
                 często były to trojany.
               </p>
               <p>
-                Using LANChat also taught me that private chats are not really
-                private when the messenger sends messages over the network in
-                unencrypted form.
+                Korzystanie z komunikatora LANChat nauczyło mnie też, że
+                prywatne rozmowy nie są tak naprawdę prywatne, gdy komunikator
+                wysyła wiadomości po sieci w formie nieszyfrowanej.
               </p>
             </>
           }
